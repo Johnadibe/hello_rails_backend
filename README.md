@@ -18,7 +18,7 @@
 
 # 📖 Hello Rails API <a name="about-project"></a>
 
-**Hello Rails API** is a backend API for a displaying random greetings.
+**Hello Rails API** is a backend API for displaying random greetings.
 
 ## Frontend
 
@@ -121,7 +121,7 @@ To run the project, execute the following command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **It will allow users to see more greetings**
-- [ ] **It will allows users to add a greeting**
+- [ ] **It will allow users to add a greeting**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
